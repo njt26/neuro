@@ -1,5 +1,5 @@
 # neuro
-Computational neuroscience demos
+Computational neuroscience demos.
 
 So far, this repository only contains a Python implementation of the Hodgkin-Huxley model of
 action potential initiation.
